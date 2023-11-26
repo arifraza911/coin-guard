@@ -1,0 +1,15 @@
+.chart{
+    margin-top: 4rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+
+
+@media (max-width:578px) {
+    .chart {
+        height: 40vh;
+    }
+    
+}
